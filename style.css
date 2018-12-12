@@ -1,15 +1,25 @@
+.body-background {
+    background-image: url("../images/circuit.png");
+}
 .profile-pic {
     margin-right: 20px;
     margin-bottom: 20px;
+}
+
+.navbar-padding {
+    padding-right:30px;
 }
 
 .name-link {
     margin-left: 20px;
 }
 .heading {
-
+    margin-top:20px;
 }
 
+.footer-text {
+    color: #f8f9fa;
+}
 
 .image-container {
     width: 200px;

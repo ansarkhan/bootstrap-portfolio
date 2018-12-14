@@ -1,5 +1,7 @@
 .body-background {
     background-image: url("../images/circuit.png");
+    background-color: white;
+    background-size: cover;
 }
 .profile-pic {
     margin-right: 20px;
@@ -19,6 +21,10 @@
 
 .footer-text {
     color: #f8f9fa;
+}
+
+.footer-custom {
+    height: 80px;
 }
 
 .image-container {
